@@ -1,0 +1,30 @@
+/* Write your CSS Here. */
+.row {
+ display: flex;
+ height: 50px;
+
+}
+
+.cell {
+    background-color: lightblue;
+    width: 150px;
+    aspect-ratio: 1/1;
+    /*border:2px solid mediumblue;*/
+
+}
+
+.wall {
+    background-color: rebeccapurple;
+}
+
+.start{
+    background-color: green;
+}
+
+.finish {
+    background-color: red;
+}
+
+.player {
+    background-color: saddlebrown;
+}
